@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-     "test": "pactum test",
-  "test:report": "pactum test --reporter html --reporter-options output=coverage/index.html"
+    "test:report": "pactum test --reporter html --reporter-options output=coverage/index.html"
   },
   "keywords": [],
   "author": "",
